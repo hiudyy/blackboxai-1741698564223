@@ -1,0 +1,97 @@
+# KyPanel Required Images
+This file lists all required images for the KyPanel project, including their paths and descriptions.
+
+## Logo Images
+/assets/img/logo/
+- logo.png - Main KyPanel logo (250x60px)
+- logo-dark.png - Dark version of the logo for light backgrounds
+- logo-light.png - Light version of the logo for dark backgrounds
+- favicon.ico - Website favicon (32x32px)
+- favicon.png - PNG version of favicon (32x32px)
+- apple-touch-icon.png - Apple touch icon (180x180px)
+
+## Home Page Images
+/assets/img/home/
+- hero-bg.jpg - Hero section background image (1920x1080px)
+- feature-1.svg - Server management illustration
+- feature-2.svg - Billing system illustration
+- feature-3.svg - Security illustration
+- about-us.jpg - About section image (800x600px)
+- testimonial-bg.jpg - Testimonials section background (1920x400px)
+
+## Admin Theme Images
+/assets/img/admin/
+- default-avatar.png - Default user avatar (200x200px)
+- login-bg.jpg - Admin login page background (1920x1080px)
+- sidebar-bg.png - Admin sidebar background pattern
+- loading.gif - Loading spinner animation
+
+## User Theme Images
+/assets/img/users/
+- dashboard-bg.jpg - User dashboard background (1920x300px)
+- service-icons/
+  - vps.svg - VPS service icon
+  - dedicated.svg - Dedicated server icon
+  - game.svg - Game server icon
+  - web.svg - Web hosting icon
+- payment-methods/
+  - mercadopago.png - MercadoPago logo
+  - credit-card.svg - Credit card icon
+  - bank-transfer.svg - Bank transfer icon
+
+## Plugin Images
+/assets/img/plugins/
+- gateway/
+  - mercadopago/
+    - logo.png - MercadoPago gateway logo
+    - icon.png - Small icon for dashboard
+- sellmods/
+  - pterodactyl/
+    - logo.png - Pterodactyl module logo
+    - icon.png - Small icon for dashboard
+- addons/
+  - create_theme/
+    - logo.png - Theme creator addon logo
+    - icon.png - Small icon for dashboard
+  - admin_theme_modifier/
+    - logo.png - Admin theme modifier logo
+    - icon.png - Small icon for dashboard
+  - homepage_modifier/
+    - logo.png - Homepage modifier logo
+    - icon.png - Small icon for dashboard
+  - broadcast/
+    - logo.png - Broadcast system logo
+    - icon.png - Small icon for dashboard
+  - notices/
+    - logo.png - Notices system logo
+    - icon.png - Small icon for dashboard
+
+## Interface Icons
+/assets/img/icons/
+- status/
+  - online.svg - Online status indicator
+  - offline.svg - Offline status indicator
+  - pending.svg - Pending status indicator
+  - error.svg - Error status indicator
+- actions/
+  - edit.svg - Edit action icon
+  - delete.svg - Delete action icon
+  - view.svg - View action icon
+  - download.svg - Download action icon
+- notifications/
+  - success.svg - Success notification icon
+  - warning.svg - Warning notification icon
+  - error.svg - Error notification icon
+  - info.svg - Information notification icon
+
+## Image Specifications
+- All logos should be provided in PNG format with transparent backgrounds
+- Icons should be provided in SVG format for scalability
+- Background images should be optimized for web use
+- All images should follow a consistent style guide
+- Recommended to use modern, flat design style
+- Color scheme should match the overall theme
+- Icons should be simple and easily recognizable
+- All images should be properly optimized for web use
+
+Note: This list represents the minimum required images. Additional images may be added as needed for custom themes or plugins. All images should be properly licensed for commercial use.
